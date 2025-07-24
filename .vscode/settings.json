@@ -1,0 +1,4 @@
+{
+  "debug.internalConsoleOptions": "openOnSessionStart",
+  "java.debug.settings.timeout": 60000
+}
